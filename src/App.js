@@ -5,6 +5,7 @@ function App() {
   const [text, setText] = useState("");
   return (
     <div className="App">
+      <p>Digite uma URL para gerar o QRCode</p>
       <input
         value={text}
         onChange={(element) => {
