@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-input {
+input, p {
   margin: 20px;
   padding: 5px;
   width: 500px;
