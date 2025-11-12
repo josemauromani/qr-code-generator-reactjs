@@ -13,8 +13,7 @@ function App() {
         }}
       ></input>
       <QRCodeCanvas text={text}></QRCodeCanvas>
-      <p>Feito com &#9829; por José Mauro </p>
-      <p><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/josemauromani/">Linkedin</a></p>
+      <p>Feito por José Mauro <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/josemauromani/">Linkedin</a></p>
     </div>
   );
 }
